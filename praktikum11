@@ -1,0 +1,26 @@
+run:
+Data sebelum diubah:
+id = 1
+Name: budi
+id = 2
+Name: andi haryanto
+id = 3
+Name: wawan
+id pegawai = 1 diubah pada database
+Data setelah diubah:
+id: 1
+Name: jajang
+
+Masukkan data gaji karyawan (gaji pokok, transportasi, masa kerja):
+Karyawan 1:
+Gaji Pokok         : Rp.4000
+Biaya Transportasi : Rp.4994
+Masa Kerja         : 2
+
+Data Gaji Karyawan:
+Karyawan 1
+Masa Kerja  : 2 tahun
+Gaji Pokok  : Rp. 4000.0
+Tunjangan   : Rp. 5000000.0
+Transportasi: Rp. 4994.0
+BUILD SUCCESSFUL (total time: 29 minutes 47 seconds)
